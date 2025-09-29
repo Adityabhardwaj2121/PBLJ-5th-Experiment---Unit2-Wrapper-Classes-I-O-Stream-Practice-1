@@ -1,6 +1,6 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Scanner;
 
-// Part A: Autoboxing and Sum of Integers
 public class PartA {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
